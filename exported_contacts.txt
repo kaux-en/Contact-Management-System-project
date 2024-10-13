@@ -1,0 +1,2 @@
+alice1@domain.com, {'Name': {'alice'}, 'Phone Number': {'(355)354-4864'}, 'Email': {'alice1@domain.com'}}
+bob2@domain.com, {'Name': 'rick', 'Phone Number': {'(345)353-4665'}, 'Email': {'bob2@domain.com'}}
